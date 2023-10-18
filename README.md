@@ -14,8 +14,7 @@
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-blue">
   <img alt="Json" src="https://img.shields.io/badge/Json-green">
   <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-green">
-  <img alt="NodeJS" src="https://img.shields.io/badge/expressjs-green">
-<!--   <img alt="Express" src="https://expressjs.com/pt-br/"> -->
+  <img alt="ExpressJs" src="https://img.shields.io/badge/ExpressJs-green">
  
   
   
